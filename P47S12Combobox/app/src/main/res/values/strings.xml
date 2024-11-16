@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P4-7S12-Combobox</string>
+
+    <string name="desc1">Revisión de RadioButton sexo</string>
+    <string name="desc2">¿Desde donde te conectas?</string>
+    <string name="op1">Hombre</string>
+    <string name="op2">Mujer</string>
+    <string name="op3">Otros</string>
+    <string name="opt1">Casa</string>
+    <string name="opt2">Oficina</string>
+    <string name="opt3">Publico</string>
+    <string name="bt1">Revisar RB</string>
+    <string name="bt2">Revisar CB</string>
+</resources>
